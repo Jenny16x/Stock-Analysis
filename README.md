@@ -1,11 +1,19 @@
 # Stock-Analysis
-#Stock Analysis
 
-##Overview of the project
-    The purpose of this project was to see the yearly returns for each ticker for both years of 2017 and 2018.
+## Overview of the analysis
 
-##Results
-    The results for both 2017 and 2018 yearly return shows that most of the tickers did not make more than what they started with.
+<p> The purpose of this project was to see the yearly returns and the total volume for each ticker for both years of 2017 and 2018.</p>
 
-##Summary
-    By refactoring the code, we were able to go through the data by the specific data code instead of labeling and assigning it one by one. Refactoring the code it process more smooth as to needing to do extra steps that was not neccessary. 
+## Results
+
+<p>The results shows that 
+<ol>
+<li>In then year 2017, most of the tickers show increase in the yearly return which made it a good year to do investments. For the year of 2018, it shows opposite and that most of the tickers return was negative.</li>
+</ol>
+Please see attached image01(2017Results) and image02(2018Results) for the summary in the Resource folder.</p>
+
+## Summary
+
+Based on the results
+<ol>
+<li>Looking at the two years that we analyze for (2017 and 2018) it hard to determine if the upcoming year will be a better year. A further and wider analysis will be necessary to have better predictions. </li>
