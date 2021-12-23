@@ -10,7 +10,8 @@
 <ol>
 <li>In then year 2017, most of the tickers show increase in the yearly return which made it a good year to do investments. For the year of 2018, it shows opposite and that most of the tickers return was negative.</li>
 </ol>
-Please see attached image01(2017Results) and image02(2018Results) for the summary in the Resource folder.</p>
+Please see attached in the Resource folder image01(2017Results) and image02(2018Results) for the summary.</p>
+
 
 ## Summary
 
